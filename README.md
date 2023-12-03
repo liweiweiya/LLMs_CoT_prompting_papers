@@ -25,3 +25,6 @@ finetuning
 预期效果
 具体的资源投入
 攒数据、finetune、攒数据、finetune
+
+##2023.12.3
+下午：jmeter关联操作（正则表达式提取器，json提取器，xpath提取器）；jmeter全局变量的设置和使用
